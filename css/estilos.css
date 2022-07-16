@@ -9,7 +9,7 @@ body
     margin: 0;
     padding: 0;
     
-  
+}
 
 #cabecera
 {
@@ -18,7 +18,7 @@ body
     color: white;
     font-weight: bold;
     margin: 0;
-    padding: 0.5;
+    padding: 0.5em;
     
 }
 
@@ -31,7 +31,7 @@ body
 #cabecera #tagline
 {
     padding:0 0 0 1em;
-    font-weight:400;
+    font-weight: normal;
     font-size:0.8em;
 
 }
@@ -50,7 +50,7 @@ body
 }
 #post
 {
-    backrground: white;
+    background: white;
     padding: 1em;
 }
 #footer
